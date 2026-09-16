@@ -1,0 +1,5 @@
+mcp_servers:
+  community:
+    command: "RUTA/ABSOLUTA/hermes-community-manager/.venv/bin/python"
+    args:
+      - "RUTA/ABSOLUTA/hermes-community-manager/server.py"

@@ -1,0 +1,18 @@
+{
+	"products": [
+		{
+			"name": "Atlas",
+			"description": "Audífonos inalambricos",
+			"price": 149000,
+			"currency": "COP",
+			"stock": 12
+		},
+		{
+			"name": "Orion",
+			"description": "Teclado mecánico",
+			"price": 219000,
+			"currency": "COP",
+			"stock": 0
+		}
+	]
+}
